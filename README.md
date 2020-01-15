@@ -2,4 +2,4 @@
 "Memory Efficient GEMM based Convolution Implementation" - Memory footprint reduction for GEMM computation for memory restricted devices.
 
 
-Details may be seen in Results/LowMemoryGEMM.pdf
+Details may be seen in Results/LowMemoryGEMM (1).pdf
